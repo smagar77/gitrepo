@@ -1,3 +1,3 @@
 # Great SQL analytics app
-## Hpw to install app
+## How to install app
 ### 
